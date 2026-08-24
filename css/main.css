@@ -424,9 +424,9 @@ width: 100%;
 }
 #Contact iframe{
 height: 400px;
-width: 64%;
+width: 62%;
 position: absolute;
-    left: 270px;
+    left: 290px;
 }
 
 #Contact i{
@@ -444,13 +444,13 @@ position: absolute;
     font-size: 12px;
 }
 #Contact .col-lg-6{
-    width: 43%;
+    width: 42%;
     margin-right: 22px;
 }
 
 #Contact .row-cols-2 {
     position: absolute;
-        left: 280px;
+        left: 305px;
         top: 73%;
 }
 
@@ -495,7 +495,7 @@ position: absolute;
     position: absolute;
     top: 32%;
     left: 40%;
-    width: 16%;
+    width: 18%;
 }
 
 #form input:focus,
